@@ -1,3 +1,4 @@
-# react-jrfauy
+# ObserveIt
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-jrfauy)
+ObserveIt
+React based web application that allows quick and efficient handling of safety observations in labs
