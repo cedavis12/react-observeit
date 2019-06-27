@@ -16,9 +16,9 @@ class Intro extends React.Component {
 
                 <div className="container">
                     <div className="jumbotron jumbotron-fluid mt-4">
-                        <div className="container justify-content-center">
-                            <h1 className="display-5">Safety Is Everybody's Business</h1>
-                            <img src="https://advancedct.com/wp-content/uploads/2015/12/23.jpg" alt="safety first" className="img-fluid" />
+                        <div className="container">
+                            <h1 className="display-5 text-center">Safety Is Everybody's Business</h1>
+                            <img src="https://advancedct.com/wp-content/uploads/2015/12/23.jpg" alt="safety first" className="img-fluid center" />
                             <hr/>
                             <p className="lead">ObserveIt is a safety observation tool that allows you to quickly submit a Laboratory Safety Observation to your manager.</p>
                             <p><strong>Help keep our laboratory safe by reinforcing safe work habits.</strong></p>
