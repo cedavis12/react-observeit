@@ -3,7 +3,7 @@ import React from 'react';
 const Success = () => {
     return (
   
-    <div className="jumbotron jumbotron-fluid mt-4">
+    <div className="jumbotron jumbotron-fluid mt-5">
       <div className="container">
         <h1 className="text-center">Thank you for your submission!</h1>
         <hr/>
